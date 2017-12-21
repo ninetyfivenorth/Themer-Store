@@ -1,0 +1,15 @@
+[THEMER THEME]
+Name=feren Default
+Dependencies=inspire-icon-theme
+Applets=['panel1:left:2:IcingTaskManager@json:44', 'panel1:left:1:CinnVIIStarkMenu@NikoKrause:471', 'panel1:right:0:keyboard@cinnamon.org:7', 'panel1:right:0:user@cinnamon.org:48', 'panel1:right:0:a11y@cinnamon.org:49', 'panel1:right:0:inhibit@cinnamon.org:50', 'panel1:right:0:ScreenShot+RecordDesktop@tech71:52', 'panel1:right:3:removable-drives@cinnamon.org:6', 'panel1:right:4:notifications@cinnamon.org:4', 'panel1:right:5:show-hide-applets@mohammad-sn:42', 'panel1:right:6:weather@mockturtl:43', 'panel1:right:7:MessagingMenuV3@blub:23', 'panel1:right:8:systray@cinnamon.org:36', 'panel1:right:9:network@cinnamon.org:9', 'panel1:right:10:sound@cinnamon.org:10', 'panel1:right:11:power@cinnamon.org:11']
+Extensions=['transparent-panels@germanfr']
+Conky=True
+GTKTheme=feren
+WMTheme=feren
+WMFont=Lato Light 11
+ShellTheme=feren
+CursorTheme=DMZ-White
+Icons=Inspire
+PanelSizeup=True
+LogoColour=Light
+WMLayout=menu,maximize:minimize,close
