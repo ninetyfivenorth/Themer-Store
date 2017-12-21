@@ -16,3 +16,4 @@ WMLayout=menu,maximize:minimize,close
 Panels=['1:0:bottom']
 PanelSizes=['1:38', '2:38']
 Dock=False
+FilesStyle=ferenOS
